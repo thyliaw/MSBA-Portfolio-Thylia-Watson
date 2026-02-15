@@ -1,4 +1,6 @@
+Business Problem
 The business problem is to predict customer churn (whether a customer will leave) using behavioral, demographic, and billing data. The goal is to proactively identify high-risk customers so the company can intervene with retention strategies before revenue is lost. The project builds and compares multiple machine learning models to determine the most accurate and actionable churn prediction approach.
+
 Three Key Results
 1. XGBoost achieved the strongest predictive performance (highest ROC-AUC on the test set), outperforming Logistic Regression, Random Forest, and Gradient Boosting.
 2. Short tenure, contract type (e.g., month-to-month), and payment method were among the most important churn drivers, based on feature importance analysis.
