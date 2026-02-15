@@ -16,4 +16,5 @@ How to Run the Code (3–6 Steps)
 6. Review final evaluation metrics, confusion matrix, ROC curve, and feature importance outputs for interpretation.
 
 One Limitation / Risk to Note
+
 The model performance depends on historical data patterns, meaning it may not generalize well if customer behavior changes (e.g., pricing updates, new competitors, policy shifts). Additionally, optimizing for higher recall (to catch more churners) may increase false positives, potentially leading to unnecessary retention costs.
